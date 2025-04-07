@@ -1,0 +1,7 @@
+{
+  "uuid": "air-control@dev-hackmann.github.com",
+  "name": "Air Control LG",
+  "description": "Control your air conditioner from the GNOME Shell.",
+  "shell-version": ["48"],
+  "version": 1
+}
