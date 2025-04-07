@@ -47,3 +47,8 @@ This project is a GNOME Shell extension that allows users to control their air c
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+![image](https://github.com/user-attachments/assets/9a5fecf6-03e9-4478-bee7-0014a8b04b2e)
+
+![image](https://github.com/user-attachments/assets/944bffb9-2fcc-4c28-9997-e72263a9583c)
+
