@@ -36,9 +36,6 @@ This project is a GNOME Shell extension that allows users to control their air c
    AUTH_TOKEN=your_auth_token
    API_URL=your_api_url
    ```
-
-5. Remember to change to your path
-
 ## Usage
 
 - After installation, enable the extension through GNOME Tweaks or the Extensions app.
