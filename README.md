@@ -24,7 +24,7 @@ This project is a GNOME Shell extension that allows users to control their air c
    - Copy the contents of the project directory to your GNOME Shell extensions directory, typically located at `~/.local/share/gnome-shell/extensions/`.
    - Ensure the folder name matches the `uuid` specified in the `metadata.json` file (e.g., `air-control@dev-hackmann.github.com`).
 
-4. Create a `.env` file in the project root to store your environment variables, such as API keys. **Make sure to update the path to the `.env` file in the `extension.js` file if you install the extension in a different directory.**
+4. Create a `.env` file in the project root to store your environment variables, such as API keys. **Make sure to update the path of `extensionDir` to the `.env` file in the `extension.js` file if you install the extension in a different directory.**
 
    Example `.env` file:
    ```
@@ -37,7 +37,7 @@ This project is a GNOME Shell extension that allows users to control their air c
    API_URL=your_api_url
    ```
 
-5. Remember to change `extensionDir` to your path
+5. Remember to change to your path
 
 ## Usage
 
